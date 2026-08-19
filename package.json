@@ -1,0 +1,28 @@
+{
+  "name": "narrafork-novel-toolkit",
+  "version": "1.0.0",
+  "description": "Industrial AI Novel Creation Toolkit for Long-Form Webnovels — 8-dimension post-write quality auditor, canon validator, context brief assembler, wave analyzer and project doctor.",
+  "main": "src/auditor.js",
+  "bin": {
+    "novel": "bin/novel.js"
+  },
+  "scripts": {
+    "doctor": "node bin/novel.js doctor",
+    "audit": "node bin/novel.js audit",
+    "canon": "node bin/novel.js canon",
+    "brief": "node bin/novel.js brief",
+    "wave": "node bin/novel.js wave",
+    "test": "node bin/novel.js doctor"
+  },
+  "keywords": [
+    "ai-novel",
+    "webnovel",
+    "writing-assistant",
+    "novel-audit",
+    "dramatica",
+    "continuity-system",
+    "claude-code"
+  ],
+  "author": "kimkingyu",
+  "license": "MIT"
+}
