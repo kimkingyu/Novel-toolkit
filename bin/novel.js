@@ -14,7 +14,7 @@ const targetArg = process.argv[3];
 
 function printHelp() {
   console.log(`
-NarraFork Novel Toolkit (网文工业级创作工具箱)
+Novel Toolkit (网文工业级创作工具箱)
 
 用法:
   novel doctor                   运行项目全景健康度体检

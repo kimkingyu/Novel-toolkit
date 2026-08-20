@@ -1,4 +1,4 @@
-# NarraFork Novel Toolkit (网文工业级长篇创作工具箱)
+# Novel Toolkit (网文工业级长篇创作工具箱)
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">

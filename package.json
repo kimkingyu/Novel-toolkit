@@ -1,5 +1,5 @@
 {
-  "name": "narrafork-novel-toolkit",
+  "name": "novel-toolkit",
   "version": "1.0.0",
   "description": "Industrial AI Novel Creation Toolkit for Long-Form Webnovels — 8-dimension post-write quality auditor, canon validator, context brief assembler, wave analyzer and project doctor.",
   "main": "src/auditor.js",

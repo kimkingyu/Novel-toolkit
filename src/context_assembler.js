@@ -86,7 +86,7 @@ class ContextAssembler {
 
   printBrief(brief) {
     console.log('\n======================================================================');
-    console.log(`📋 【NarraFork 工业级单章写作任务书 (Writing Brief)】`);
+    console.log(`📋 【Novel Toolkit 工业级单章写作任务书 (Writing Brief)】`);
     console.log(`🎯 目标章节: ${brief.heading}`);
     console.log('======================================================================\n');
     console.log(brief.section1_delegation + '\n');
